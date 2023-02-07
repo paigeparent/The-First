@@ -1,2 +1,2 @@
 # The-First
-My very first repository. Let's see where this takes me!
+My very first website. Let's see where this takes me!
